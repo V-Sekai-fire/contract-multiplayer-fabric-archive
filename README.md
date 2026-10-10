@@ -12,4 +12,4 @@ The records are plain Markdown; there is nothing to build.
 
 ## Licence
 
-MIT, as `CITATION.cff` states; there is no LICENSE file.
+MIT. See [LICENSE](LICENSE).
