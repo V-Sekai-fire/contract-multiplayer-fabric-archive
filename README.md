@@ -4,7 +4,7 @@ Archived decision records for the multiplayer fabric stack: rejected and superse
 
 ## What it is for
 
-A record that stops being current moves here, at the path it had in the manuals, and leaves no stub behind; live links that pointed at it are repointed to its new path. Current records live in `V-Sekai-fire/manuals-weftspun`, and RFD 2106 there explains why the archive is its own repository.
+A record that stops being current moves here, at the path it had in the manuals, and leaves no stub behind; live links that pointed at it are repointed to its new path. Current records live in `V-Sekai-fire/manuals-weftspun`, and RFD66606-2106 there explains why the archive is its own repository.
 
 ## Build and run
 
